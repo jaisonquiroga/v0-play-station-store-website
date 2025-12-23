@@ -1,0 +1,224 @@
+{
+  "negocio": {
+    "nombre": "La Casa del PlayStation",
+    "eslogan": "Tu centro gamer de confianza",
+    "ubicacion": "Armenia, Quindío",
+    "whatsapp": "+57 300 123 4567",
+    "redes": {
+      "facebook": "https://facebook.com/lacasadelplaystation",
+      "instagram": "https://instagram.com/lacasadelplaystation",
+      "tiktok": "https://tiktok.com/@lacasadelplaystation"
+    }
+  },
+  "estilos": {
+    "colorPrincipal": "#00D9FF",
+    "colorSecundario": "#FF006E",
+    "colorAcento": "#8338EC",
+    "tipografia": "Orbitron, sans-serif"
+  },
+  "secciones": [
+    {
+      "id": "hero",
+      "tipo": "banner",
+      "titulo": "Bienvenido a La Casa del PlayStation",
+      "subtitulo": "Venta, reparación y mantenimiento de todas las consolas",
+      "descripcion": "Expertos en PlayStation, Xbox y Nintendo - Todas las generaciones",
+      "imagen": "/placeholder.svg?height=1080&width=1920",
+      "boton": {
+        "texto": "Cotiza tu reparación",
+        "link": "#cotizador"
+      }
+    },
+    {
+      "id": "servicios",
+      "tipo": "grid",
+      "titulo": "Nuestros Servicios",
+      "items": [
+        {
+          "titulo": "Reparación de Consolas",
+          "descripcion": "PlayStation, Xbox, Nintendo - Todas las generaciones",
+          "icono": "🔧",
+          "imagen": "/placeholder.svg?height=600&width=800"
+        },
+        {
+          "titulo": "Venta de Juegos",
+          "descripcion": "Físicos y digitales - Últimos lanzamientos",
+          "icono": "🎮",
+          "imagen": "/placeholder.svg?height=600&width=800"
+        },
+        {
+          "titulo": "Accesorios Gaming",
+          "descripcion": "Controles, audífonos, cables y más",
+          "icono": "🎧",
+          "imagen": "/placeholder.svg?height=600&width=800"
+        },
+        {
+          "titulo": "Mantenimiento Preventivo",
+          "descripcion": "Limpieza, cambio de pasta térmica, optimización",
+          "icono": "✨",
+          "imagen": "/placeholder.svg?height=600&width=800"
+        }
+      ]
+    },
+    {
+      "id": "catalogo",
+      "tipo": "productos",
+      "titulo": "Catálogo de Productos",
+      "productos": [
+        {
+          "nombre": "Control DualSense PS5",
+          "precio": "$280.000",
+          "imagen": "/placeholder.svg?height=400&width=400",
+          "disponible": true,
+          "categoria": "accesorios"
+        },
+        {
+          "nombre": "The Last of Us Part II",
+          "precio": "$150.000",
+          "imagen": "/placeholder.svg?height=400&width=400",
+          "disponible": true,
+          "categoria": "juegos"
+        },
+        {
+          "nombre": "Audífonos HyperX Cloud II",
+          "precio": "$320.000",
+          "imagen": "/placeholder.svg?height=400&width=400",
+          "disponible": true,
+          "categoria": "accesorios"
+        },
+        {
+          "nombre": "God of War Ragnarök",
+          "precio": "$200.000",
+          "imagen": "/placeholder.svg?height=400&width=400",
+          "disponible": false,
+          "categoria": "juegos"
+        }
+      ]
+    },
+    {
+      "id": "cotizador",
+      "tipo": "formulario",
+      "titulo": "Cotiza tu Reparación",
+      "subtitulo": "Envíanos los detalles y te respondemos en minutos",
+      "campos": [
+        {
+          "tipo": "select",
+          "label": "Tipo de consola",
+          "name": "consola",
+          "opciones": ["PS5", "PS4", "PS3", "Xbox Series X/S", "Xbox One", "Nintendo Switch"]
+        },
+        {
+          "tipo": "select",
+          "label": "Problema",
+          "name": "problema",
+          "opciones": [
+            "No enciende",
+            "No lee discos",
+            "Sobrecalentamiento",
+            "Control no conecta",
+            "Pantalla azul/error",
+            "Otro"
+          ]
+        },
+        {
+          "tipo": "textarea",
+          "label": "Descripción del problema",
+          "name": "descripcion",
+          "placeholder": "Cuéntanos más detalles..."
+        },
+        {
+          "tipo": "text",
+          "label": "Tu nombre",
+          "name": "nombre",
+          "placeholder": "Juan Pérez"
+        },
+        {
+          "tipo": "tel",
+          "label": "WhatsApp",
+          "name": "telefono",
+          "placeholder": "+57 300 123 4567"
+        }
+      ],
+      "botonEnvio": "Enviar cotización por WhatsApp"
+    },
+    {
+      "id": "galeria",
+      "tipo": "galeria",
+      "titulo": "Trabajos Realizados",
+      "subtitulo": "Más de 500 consolas reparadas con garantía",
+      "imagenes": [
+        {
+          "url": "/placeholder.svg?height=400&width=600",
+          "descripcion": "Reparación PS5 - Cambio de lector"
+        },
+        {
+          "url": "/placeholder.svg?height=400&width=600",
+          "descripcion": "Mantenimiento Xbox Series X"
+        },
+        {
+          "url": "/placeholder.svg?height=400&width=600",
+          "descripcion": "Restauración PS4 Pro"
+        },
+        {
+          "url": "/placeholder.svg?height=400&width=600",
+          "descripcion": "Cambio pantalla Nintendo Switch"
+        },
+        {
+          "url": "/placeholder.svg?height=400&width=600",
+          "descripcion": "Reparación PS3 YLOD"
+        },
+        {
+          "url": "/placeholder.svg?height=400&width=600",
+          "descripcion": "Reparación puerto HDMI Xbox One"
+        }
+      ]
+    },
+    {
+      "id": "testimonios",
+      "tipo": "carousel",
+      "titulo": "Lo Que Dicen Nuestros Clientes",
+      "items": [
+        {
+          "nombre": "Carlos M.",
+          "texto": "Excelente servicio, mi PS5 quedó como nueva. Muy profesionales y rápidos.",
+          "estrellas": 5
+        },
+        {
+          "nombre": "Ana P.",
+          "texto": "Precios justos y trabajo garantizado. Super recomendados!",
+          "estrellas": 5
+        },
+        {
+          "nombre": "Diego R.",
+          "texto": "Repararon mi Xbox Series X en menos de 24 horas. Increíble atención.",
+          "estrellas": 5
+        },
+        {
+          "nombre": "María L.",
+          "texto": "Gran variedad de juegos y accesorios. Encontré todo lo que buscaba.",
+          "estrellas": 5
+        }
+      ]
+    },
+    {
+      "id": "minijuego",
+      "tipo": "juego",
+      "titulo": "¡Juega y Gana un 10% de Descuento!",
+      "subtitulo": "Completa el nivel y recibe tu cupón",
+      "config": {
+        "tipo": "platformer",
+        "dificultad": "media",
+        "instrucciones": "Usa las flechas del teclado para moverte y saltar. Evita los enemigos y llega a la meta.",
+        "premio": "Cupón 10% OFF",
+        "vidas": 3
+      }
+    }
+  ],
+  "whatsappFlotante": {
+    "activo": true,
+    "numero": "+573001234567",
+    "mensaje": "Hola! Quiero información sobre",
+    "posicion": "bottom-right",
+    "color": "#25D366"
+  }
+}
