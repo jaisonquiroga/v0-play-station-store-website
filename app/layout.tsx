@@ -14,13 +14,13 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "La Casa del PlayStation | Tienda y Reparación de Consolas en Armenia",
+  title: "La Estación del PlayStation | Tienda y Reparación de Consolas en Armenia",
   description:
     "Venta, reparación y mantenimiento de PlayStation, Xbox y Nintendo en Armenia, Quindío. Expertos en todas las generaciones de consolas.",
   keywords:
     "reparación consolas Armenia, PlayStation Armenia Quindío, Xbox reparación, Nintendo Switch, venta videojuegos",
   openGraph: {
-    title: "La Casa del PlayStation - Tu Centro Gamer en Armenia",
+    title: "La Estación del PlayStation - Tu Centro Gamer en Armenia",
     description: "Expertos en reparación y venta de consolas en Armenia, Quindío",
     locale: "es_CO",
   },

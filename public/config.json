@@ -1,6 +1,6 @@
 {
   "negocio": {
-    "nombre": "La Casa del PlayStation",
+    "nombre": "La Estación del PlayStation",
     "eslogan": "Tu centro gamer de confianza",
     "ubicacion": "Armenia, Quindío",
     "whatsapp": "+57 300 123 4567",
@@ -20,7 +20,7 @@
     {
       "id": "hero",
       "tipo": "banner",
-      "titulo": "Bienvenido a La Casa del PlayStation",
+      "titulo": "Bienvenido a La Estación del PlayStation",
       "subtitulo": "Venta, reparación y mantenimiento de todas las consolas",
       "descripcion": "Expertos en PlayStation, Xbox y Nintendo - Todas las generaciones",
       "imagen": "/placeholder.svg?height=1080&width=1920",
@@ -105,7 +105,14 @@
           "tipo": "select",
           "label": "Tipo de consola",
           "name": "consola",
-          "opciones": ["PS5", "PS4", "PS3", "Xbox Series X/S", "Xbox One", "Nintendo Switch"]
+          "opciones": [
+            "PS5",
+            "PS4",
+            "PS3",
+            "Xbox Series X/S",
+            "Xbox One",
+            "Nintendo Switch"
+          ]
         },
         {
           "tipo": "select",

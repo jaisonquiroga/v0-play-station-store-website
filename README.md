@@ -1,4 +1,4 @@
-# La Casa del PlayStation - Tienda Gaming
+# La Estación del PlayStation - Tienda Gaming
 
 Una página web moderna e interactiva para tienda de videojuegos completamente administrable desde un archivo JSON.
 
