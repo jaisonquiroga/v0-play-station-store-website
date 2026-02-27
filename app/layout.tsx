@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     description: "Expertos en reparación y venta de consolas en Armenia, Quindío",
     locale: "es_CO",
   },
-    generator: 'v0.app'
+  generator: 'v0.app'
 }
 
 export const viewport = {
@@ -43,6 +43,31 @@ export default function RootLayout({
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* SAIO / E-E-A-T: LocalBusiness Schema */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "LocalBusiness",
+              "name": "La Estación del PlayStation",
+              "image": "https://laestaciondelplay.com/logo-estacion.png", // Ideal URL
+              "description": "Expertos en reparación, mantenimiento y venta de consolas de videojuegos PlayStation, Xbox y Nintendo en Armenia, Quindío.",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Armenia",
+                "addressRegion": "Quindío",
+                "addressCountry": "CO"
+              },
+              "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "4.533889",
+                "longitude": "-75.681111"
+              },
+              "priceRange": "$$"
+            })
+          }}
+        />
       </head>
       <body className={`${orbitron.variable} ${geistMono.variable} font-sans antialiased`}>
         {children}
