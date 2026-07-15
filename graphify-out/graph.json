@@ -4,6 +4,28 @@
   "graph": {},
   "nodes": [
     {
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude",
+      "community": 56,
+      "community_name": "CLAUDE.md",
+      "norm_label": "claude.md"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude_graphify",
+      "community": 56,
+      "community_name": "CLAUDE.md",
+      "norm_label": "graphify"
+    },
+    {
       "label": "layout.tsx",
       "file_type": "code",
       "source_file": "app/layout.tsx",
@@ -11,8 +33,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "layout.tsx",
-      "id": "app_layout",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "app_layout"
     },
     {
       "label": "orbitron",
@@ -22,8 +44,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "orbitron",
-      "id": "app_layout_orbitron",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "app_layout_orbitron"
     },
     {
       "label": "geistMono",
@@ -33,8 +55,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "geistmono",
-      "id": "app_layout_geistmono",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "app_layout_geistmono"
     },
     {
       "label": "metadata",
@@ -44,8 +66,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "metadata",
-      "id": "app_layout_metadata",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "app_layout_metadata"
     },
     {
       "label": "viewport",
@@ -55,8 +77,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "viewport",
-      "id": "app_layout_viewport",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "app_layout_viewport"
     },
     {
       "label": "RootLayout()",
@@ -66,8 +88,8 @@
       "_origin": "ast",
       "community": 6,
       "norm_label": "rootlayout()",
-      "id": "app_layout_rootlayout",
-      "community_name": "Community 6"
+      "community_name": "Community 6",
+      "id": "app_layout_rootlayout"
     },
     {
       "label": "page.tsx",
@@ -77,8 +99,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "page.tsx",
-      "id": "app_page",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "app_page"
     },
     {
       "label": "HomePage()",
@@ -88,8 +110,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "homepage()",
-      "id": "app_page_homepage",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "app_page_homepage"
     },
     {
       "label": "components.json",
@@ -99,8 +121,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "components.json",
-      "id": "components",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components"
     },
     {
       "label": "$schema",
@@ -110,8 +132,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "$schema",
-      "id": "components_schema",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_schema"
     },
     {
       "label": "style",
@@ -121,8 +143,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "style",
-      "id": "components_style",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_style"
     },
     {
       "label": "rsc",
@@ -132,8 +154,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "rsc",
-      "id": "components_rsc",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_rsc"
     },
     {
       "label": "tsx",
@@ -143,8 +165,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "tsx",
-      "id": "components_tsx",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_tsx"
     },
     {
       "label": "tailwind",
@@ -154,8 +176,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "tailwind",
-      "id": "components_tailwind",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_tailwind"
     },
     {
       "label": "config",
@@ -165,8 +187,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "config",
-      "id": "components_tailwind_config",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_tailwind_config"
     },
     {
       "label": "css",
@@ -176,8 +198,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "css",
-      "id": "components_tailwind_css",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_tailwind_css"
     },
     {
       "label": "baseColor",
@@ -187,8 +209,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "basecolor",
-      "id": "components_tailwind_basecolor",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_tailwind_basecolor"
     },
     {
       "label": "cssVariables",
@@ -198,8 +220,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "cssvariables",
-      "id": "components_tailwind_cssvariables",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_tailwind_cssvariables"
     },
     {
       "label": "prefix",
@@ -209,8 +231,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "prefix",
-      "id": "components_tailwind_prefix",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_tailwind_prefix"
     },
     {
       "label": "aliases",
@@ -220,8 +242,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "aliases",
-      "id": "components_aliases",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_aliases"
     },
     {
       "label": "components",
@@ -231,8 +253,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "components",
-      "id": "components_aliases_components",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_aliases_components"
     },
     {
       "label": "utils",
@@ -242,8 +264,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "utils",
-      "id": "components_aliases_utils",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_aliases_utils"
     },
     {
       "label": "ui",
@@ -253,8 +275,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "ui",
-      "id": "components_aliases_ui",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_aliases_ui"
     },
     {
       "label": "lib",
@@ -264,8 +286,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "lib",
-      "id": "components_aliases_lib",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_aliases_lib"
     },
     {
       "label": "hooks",
@@ -275,8 +297,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "hooks",
-      "id": "components_aliases_hooks",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_aliases_hooks"
     },
     {
       "label": "iconLibrary",
@@ -286,8 +308,8 @@
       "_origin": "ast",
       "community": 4,
       "norm_label": "iconlibrary",
-      "id": "components_iconlibrary",
-      "community_name": "Community 4"
+      "community_name": "Community 4",
+      "id": "components_iconlibrary"
     },
     {
       "label": "catalog-section.tsx",
@@ -297,8 +319,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "catalog-section.tsx",
-      "id": "components_catalog_section",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_catalog_section"
     },
     {
       "label": "CatalogSectionProps",
@@ -308,8 +330,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "catalogsectionprops",
-      "id": "components_catalog_section_catalogsectionprops",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_catalog_section_catalogsectionprops"
     },
     {
       "label": "CatalogSection()",
@@ -319,8 +341,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "catalogsection()",
-      "id": "components_catalog_section_catalogsection",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_catalog_section_catalogsection"
     },
     {
       "label": "footer.tsx",
@@ -330,8 +352,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "footer.tsx",
-      "id": "components_footer",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_footer"
     },
     {
       "label": "FooterProps",
@@ -341,8 +363,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "footerprops",
-      "id": "components_footer_footerprops",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_footer_footerprops"
     },
     {
       "label": "Footer()",
@@ -352,8 +374,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "footer()",
-      "id": "components_footer_footer",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_footer_footer"
     },
     {
       "label": "gallery-section.tsx",
@@ -363,8 +385,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "gallery-section.tsx",
-      "id": "components_gallery_section",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "components_gallery_section"
     },
     {
       "label": "GallerySectionProps",
@@ -374,8 +396,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "gallerysectionprops",
-      "id": "components_gallery_section_gallerysectionprops",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "components_gallery_section_gallerysectionprops"
     },
     {
       "label": "GallerySection()",
@@ -385,8 +407,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "gallerysection()",
-      "id": "components_gallery_section_gallerysection",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "components_gallery_section_gallerysection"
     },
     {
       "label": "game-section.tsx",
@@ -394,10 +416,10 @@
       "source_file": "components/game-section.tsx",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "game-section.tsx",
-      "id": "components_game_section",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_game_section"
     },
     {
       "label": "GameSectionProps",
@@ -405,10 +427,10 @@
       "source_file": "components/game-section.tsx",
       "source_location": "L9",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "gamesectionprops",
-      "id": "components_game_section_gamesectionprops",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_game_section_gamesectionprops"
     },
     {
       "label": "GameSection()",
@@ -416,10 +438,10 @@
       "source_file": "components/game-section.tsx",
       "source_location": "L25",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "gamesection()",
-      "id": "components_game_section_gamesection",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_game_section_gamesection"
     },
     {
       "label": "hero-section.tsx",
@@ -429,8 +451,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "hero-section.tsx",
-      "id": "components_hero_section",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_hero_section"
     },
     {
       "label": "HeroSectionProps",
@@ -440,8 +462,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "herosectionprops",
-      "id": "components_hero_section_herosectionprops",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_hero_section_herosectionprops"
     },
     {
       "label": "HeroSection()",
@@ -451,8 +473,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "herosection()",
-      "id": "components_hero_section_herosection",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_hero_section_herosection"
     },
     {
       "label": "navbar.tsx",
@@ -462,8 +484,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "navbar.tsx",
-      "id": "components_navbar",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_navbar"
     },
     {
       "label": "NavbarProps",
@@ -473,8 +495,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "navbarprops",
-      "id": "components_navbar_navbarprops",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_navbar_navbarprops"
     },
     {
       "label": "Navbar()",
@@ -484,8 +506,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "navbar()",
-      "id": "components_navbar_navbar",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_navbar_navbar"
     },
     {
       "label": "platform-game.tsx",
@@ -493,10 +515,10 @@
       "source_file": "components/platform-game.tsx",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 0,
+      "community": 55,
       "norm_label": "platform-game.tsx",
-      "id": "components_platform_game",
-      "community_name": "Community 0"
+      "community_name": "platform-game.tsx",
+      "id": "components_platform_game"
     },
     {
       "label": "PlatformGameProps",
@@ -504,10 +526,10 @@
       "source_file": "components/platform-game.tsx",
       "source_location": "L6",
       "_origin": "ast",
-      "community": 0,
+      "community": 55,
       "norm_label": "platformgameprops",
-      "id": "components_platform_game_platformgameprops",
-      "community_name": "Community 0"
+      "community_name": "platform-game.tsx",
+      "id": "components_platform_game_platformgameprops"
     },
     {
       "label": "GameObject",
@@ -515,10 +537,10 @@
       "source_file": "components/platform-game.tsx",
       "source_location": "L13",
       "_origin": "ast",
-      "community": 0,
+      "community": 55,
       "norm_label": "gameobject",
-      "id": "components_platform_game_gameobject",
-      "community_name": "Community 0"
+      "community_name": "platform-game.tsx",
+      "id": "components_platform_game_gameobject"
     },
     {
       "label": "PlatformGame()",
@@ -526,10 +548,10 @@
       "source_file": "components/platform-game.tsx",
       "source_location": "L22",
       "_origin": "ast",
-      "community": 0,
+      "community": 55,
       "norm_label": "platformgame()",
-      "id": "components_platform_game_platformgame",
-      "community_name": "Community 0"
+      "community_name": "platform-game.tsx",
+      "id": "components_platform_game_platformgame"
     },
     {
       "label": "quote-form.tsx",
@@ -539,8 +561,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "quote-form.tsx",
-      "id": "components_quote_form",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_quote_form"
     },
     {
       "label": "QuoteFormProps",
@@ -550,8 +572,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "quoteformprops",
-      "id": "components_quote_form_quoteformprops",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_quote_form_quoteformprops"
     },
     {
       "label": "QuoteForm()",
@@ -561,8 +583,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "quoteform()",
-      "id": "components_quote_form_quoteform",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_quote_form_quoteform"
     },
     {
       "label": "services-section.tsx",
@@ -570,10 +592,10 @@
       "source_file": "components/services-section.tsx",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "services-section.tsx",
-      "id": "components_services_section",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_services_section"
     },
     {
       "label": "ServicesSectionProps",
@@ -581,10 +603,10 @@
       "source_file": "components/services-section.tsx",
       "source_location": "L7",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "servicessectionprops",
-      "id": "components_services_section_servicessectionprops",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_services_section_servicessectionprops"
     },
     {
       "label": "ServicesSection()",
@@ -592,10 +614,10 @@
       "source_file": "components/services-section.tsx",
       "source_location": "L20",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "servicessection()",
-      "id": "components_services_section_servicessection",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_services_section_servicessection"
     },
     {
       "label": "testimonials-section.tsx",
@@ -605,8 +627,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "testimonials-section.tsx",
-      "id": "components_testimonials_section",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_testimonials_section"
     },
     {
       "label": "TestimonialsSectionProps",
@@ -616,8 +638,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "testimonialssectionprops",
-      "id": "components_testimonials_section_testimonialssectionprops",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_testimonials_section_testimonialssectionprops"
     },
     {
       "label": "TestimonialsSection()",
@@ -627,8 +649,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "testimonialssection()",
-      "id": "components_testimonials_section_testimonialssection",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_testimonials_section_testimonialssection"
     },
     {
       "label": "theme-provider.tsx",
@@ -638,8 +660,8 @@
       "_origin": "ast",
       "community": 12,
       "norm_label": "theme-provider.tsx",
-      "id": "components_theme_provider",
-      "community_name": "Community 12"
+      "community_name": "Community 12",
+      "id": "components_theme_provider"
     },
     {
       "label": "ThemeProvider()",
@@ -649,8 +671,8 @@
       "_origin": "ast",
       "community": 12,
       "norm_label": "themeprovider()",
-      "id": "components_theme_provider_themeprovider",
-      "community_name": "Community 12"
+      "community_name": "Community 12",
+      "id": "components_theme_provider_themeprovider"
     },
     {
       "label": "badge.tsx",
@@ -660,8 +682,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "badge.tsx",
-      "id": "components_ui_badge",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_ui_badge"
     },
     {
       "label": "badgeVariants",
@@ -671,8 +693,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "badgevariants",
-      "id": "components_ui_badge_badgevariants",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_ui_badge_badgevariants"
     },
     {
       "label": "Badge()",
@@ -682,8 +704,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "badge()",
-      "id": "components_ui_badge_badge",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_ui_badge_badge"
     },
     {
       "label": "button.tsx",
@@ -693,8 +715,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "button.tsx",
-      "id": "components_ui_button",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_ui_button"
     },
     {
       "label": "buttonVariants",
@@ -704,8 +726,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "buttonvariants",
-      "id": "components_ui_button_buttonvariants",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_ui_button_buttonvariants"
     },
     {
       "label": "Button()",
@@ -715,8 +737,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "button()",
-      "id": "components_ui_button_button",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_ui_button_button"
     },
     {
       "label": "card.tsx",
@@ -724,10 +746,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "card.tsx",
-      "id": "components_ui_card",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card"
     },
     {
       "label": "Card()",
@@ -735,10 +757,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L5",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "card()",
-      "id": "components_ui_card_card",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card_card"
     },
     {
       "label": "CardHeader()",
@@ -746,10 +768,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L18",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "cardheader()",
-      "id": "components_ui_card_cardheader",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card_cardheader"
     },
     {
       "label": "CardTitle()",
@@ -757,10 +779,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L31",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "cardtitle()",
-      "id": "components_ui_card_cardtitle",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card_cardtitle"
     },
     {
       "label": "CardDescription()",
@@ -768,10 +790,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L41",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "carddescription()",
-      "id": "components_ui_card_carddescription",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card_carddescription"
     },
     {
       "label": "CardAction()",
@@ -779,10 +801,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L51",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "cardaction()",
-      "id": "components_ui_card_cardaction",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card_cardaction"
     },
     {
       "label": "CardContent()",
@@ -790,10 +812,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L64",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "cardcontent()",
-      "id": "components_ui_card_cardcontent",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card_cardcontent"
     },
     {
       "label": "CardFooter()",
@@ -801,10 +823,10 @@
       "source_file": "components/ui/card.tsx",
       "source_location": "L74",
       "_origin": "ast",
-      "community": 0,
+      "community": 1,
       "norm_label": "cardfooter()",
-      "id": "components_ui_card_cardfooter",
-      "community_name": "Community 0"
+      "community_name": "Community 1",
+      "id": "components_ui_card_cardfooter"
     },
     {
       "label": "dialog.tsx",
@@ -812,10 +834,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L1",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialog.tsx",
-      "id": "components_ui_dialog",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog"
     },
     {
       "label": "Dialog()",
@@ -825,8 +847,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "dialog()",
-      "id": "components_ui_dialog_dialog",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialog"
     },
     {
       "label": "DialogTrigger()",
@@ -834,10 +856,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L15",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogtrigger()",
-      "id": "components_ui_dialog_dialogtrigger",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogtrigger"
     },
     {
       "label": "DialogPortal()",
@@ -845,10 +867,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L21",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogportal()",
-      "id": "components_ui_dialog_dialogportal",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogportal"
     },
     {
       "label": "DialogClose()",
@@ -856,10 +878,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L27",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogclose()",
-      "id": "components_ui_dialog_dialogclose",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogclose"
     },
     {
       "label": "DialogOverlay()",
@@ -867,10 +889,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L33",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogoverlay()",
-      "id": "components_ui_dialog_dialogoverlay",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogoverlay"
     },
     {
       "label": "DialogContent()",
@@ -880,8 +902,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "dialogcontent()",
-      "id": "components_ui_dialog_dialogcontent",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogcontent"
     },
     {
       "label": "DialogHeader()",
@@ -889,10 +911,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L83",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogheader()",
-      "id": "components_ui_dialog_dialogheader",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogheader"
     },
     {
       "label": "DialogFooter()",
@@ -900,10 +922,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L93",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogfooter()",
-      "id": "components_ui_dialog_dialogfooter",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogfooter"
     },
     {
       "label": "DialogTitle()",
@@ -911,10 +933,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L106",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogtitle()",
-      "id": "components_ui_dialog_dialogtitle",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogtitle"
     },
     {
       "label": "DialogDescription()",
@@ -922,10 +944,10 @@
       "source_file": "components/ui/dialog.tsx",
       "source_location": "L119",
       "_origin": "ast",
-      "community": 1,
+      "community": 7,
       "norm_label": "dialogdescription()",
-      "id": "components_ui_dialog_dialogdescription",
-      "community_name": "Community 1"
+      "community_name": "Community 7",
+      "id": "components_ui_dialog_dialogdescription"
     },
     {
       "label": "input.tsx",
@@ -935,8 +957,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "input.tsx",
-      "id": "components_ui_input",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_input"
     },
     {
       "label": "Input()",
@@ -946,8 +968,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "input()",
-      "id": "components_ui_input_input",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_input_input"
     },
     {
       "label": "label.tsx",
@@ -957,8 +979,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "label.tsx",
-      "id": "components_ui_label",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_label"
     },
     {
       "label": "Label()",
@@ -968,8 +990,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "label()",
-      "id": "components_ui_label_label",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_label_label"
     },
     {
       "label": "select.tsx",
@@ -979,8 +1001,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "select.tsx",
-      "id": "components_ui_select",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select"
     },
     {
       "label": "Select()",
@@ -990,8 +1012,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "select()",
-      "id": "components_ui_select_select",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_select"
     },
     {
       "label": "SelectGroup()",
@@ -1001,8 +1023,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectgroup()",
-      "id": "components_ui_select_selectgroup",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectgroup"
     },
     {
       "label": "SelectValue()",
@@ -1012,8 +1034,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectvalue()",
-      "id": "components_ui_select_selectvalue",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectvalue"
     },
     {
       "label": "SelectTrigger()",
@@ -1023,8 +1045,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selecttrigger()",
-      "id": "components_ui_select_selecttrigger",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selecttrigger"
     },
     {
       "label": "SelectContent()",
@@ -1034,8 +1056,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectcontent()",
-      "id": "components_ui_select_selectcontent",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectcontent"
     },
     {
       "label": "SelectLabel()",
@@ -1045,8 +1067,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectlabel()",
-      "id": "components_ui_select_selectlabel",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectlabel"
     },
     {
       "label": "SelectItem()",
@@ -1056,8 +1078,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectitem()",
-      "id": "components_ui_select_selectitem",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectitem"
     },
     {
       "label": "SelectSeparator()",
@@ -1067,8 +1089,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectseparator()",
-      "id": "components_ui_select_selectseparator",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectseparator"
     },
     {
       "label": "SelectScrollUpButton()",
@@ -1078,8 +1100,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectscrollupbutton()",
-      "id": "components_ui_select_selectscrollupbutton",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectscrollupbutton"
     },
     {
       "label": "SelectScrollDownButton()",
@@ -1089,8 +1111,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "selectscrolldownbutton()",
-      "id": "components_ui_select_selectscrolldownbutton",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_select_selectscrolldownbutton"
     },
     {
       "label": "textarea.tsx",
@@ -1100,8 +1122,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "textarea.tsx",
-      "id": "components_ui_textarea",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_textarea"
     },
     {
       "label": "Textarea()",
@@ -1111,8 +1133,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "textarea()",
-      "id": "components_ui_textarea_textarea",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "components_ui_textarea_textarea"
     },
     {
       "label": "whatsapp-button.tsx",
@@ -1122,8 +1144,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "whatsapp-button.tsx",
-      "id": "components_whatsapp_button",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_whatsapp_button"
     },
     {
       "label": "WhatsAppButtonProps",
@@ -1133,8 +1155,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "whatsappbuttonprops",
-      "id": "components_whatsapp_button_whatsappbuttonprops",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_whatsapp_button_whatsappbuttonprops"
     },
     {
       "label": "WhatsAppButton()",
@@ -1144,8 +1166,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "whatsappbutton()",
-      "id": "components_whatsapp_button_whatsappbutton",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "components_whatsapp_button_whatsappbutton"
     },
     {
       "label": "types.ts",
@@ -1155,8 +1177,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "types.ts",
-      "id": "lib_types",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "lib_types"
     },
     {
       "label": "Config",
@@ -1166,8 +1188,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "config",
-      "id": "lib_types_config",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "lib_types_config"
     },
     {
       "label": "Seccion",
@@ -1177,8 +1199,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "seccion",
-      "id": "lib_types_seccion",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "lib_types_seccion"
     },
     {
       "label": "Producto",
@@ -1188,8 +1210,8 @@
       "_origin": "ast",
       "community": 0,
       "norm_label": "producto",
-      "id": "lib_types_producto",
-      "community_name": "Community 0"
+      "community_name": "Community 0",
+      "id": "lib_types_producto"
     },
     {
       "label": "Campo",
@@ -1199,8 +1221,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "campo",
-      "id": "lib_types_campo",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "lib_types_campo"
     },
     {
       "label": "GaleriaImagen",
@@ -1210,8 +1232,8 @@
       "_origin": "ast",
       "community": 7,
       "norm_label": "galeriaimagen",
-      "id": "lib_types_galeriaimagen",
-      "community_name": "Community 7"
+      "community_name": "Community 7",
+      "id": "lib_types_galeriaimagen"
     },
     {
       "label": "utils.ts",
@@ -1221,8 +1243,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "utils.ts",
-      "id": "lib_utils",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "lib_utils"
     },
     {
       "label": "cn()",
@@ -1232,8 +1254,8 @@
       "_origin": "ast",
       "community": 1,
       "norm_label": "cn()",
-      "id": "lib_utils_cn",
-      "community_name": "Community 1"
+      "community_name": "Community 1",
+      "id": "lib_utils_cn"
     },
     {
       "label": "next.config.mjs",
@@ -1243,8 +1265,8 @@
       "_origin": "ast",
       "community": 19,
       "norm_label": "next.config.mjs",
-      "id": "next_config",
-      "community_name": "Community 19"
+      "community_name": "Community 19",
+      "id": "next_config"
     },
     {
       "label": "nextConfig",
@@ -1254,8 +1276,8 @@
       "_origin": "ast",
       "community": 19,
       "norm_label": "nextconfig",
-      "id": "next_config_nextconfig",
-      "community_name": "Community 19"
+      "community_name": "Community 19",
+      "id": "next_config_nextconfig"
     },
     {
       "label": "package.json",
@@ -1265,8 +1287,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "package.json",
-      "id": "package",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package"
     },
     {
       "label": "name",
@@ -1276,8 +1298,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "name",
-      "id": "package_name",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_name"
     },
     {
       "label": "version",
@@ -1287,8 +1309,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "version",
-      "id": "package_version",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_version"
     },
     {
       "label": "private",
@@ -1298,8 +1320,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "private",
-      "id": "package_private",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_private"
     },
     {
       "label": "scripts",
@@ -1309,8 +1331,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "scripts",
-      "id": "package_scripts",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_scripts"
     },
     {
       "label": "build",
@@ -1320,8 +1342,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "build",
-      "id": "package_scripts_build",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_scripts_build"
     },
     {
       "label": "dev",
@@ -1331,8 +1353,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "dev",
-      "id": "package_scripts_dev",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_scripts_dev"
     },
     {
       "label": "lint",
@@ -1342,8 +1364,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "lint",
-      "id": "package_scripts_lint",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_scripts_lint"
     },
     {
       "label": "start",
@@ -1353,8 +1375,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "start",
-      "id": "package_scripts_start",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_scripts_start"
     },
     {
       "label": "dependencies",
@@ -1364,8 +1386,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "dependencies",
-      "id": "package_dependencies",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "package_dependencies"
     },
     {
       "label": "@hookform/resolvers",
@@ -1375,8 +1397,8 @@
       "_origin": "ast",
       "community": 15,
       "norm_label": "@hookform/resolvers",
-      "id": "package_dependencies_hookform_resolvers",
-      "community_name": "Community 15"
+      "community_name": "Community 15",
+      "id": "package_dependencies_hookform_resolvers"
     },
     {
       "label": "@hookform/resolvers",
@@ -1386,8 +1408,8 @@
       "_origin": "ast",
       "community": 15,
       "norm_label": "@hookform/resolvers",
-      "id": "hookform_resolvers",
-      "community_name": "Community 15"
+      "community_name": "Community 15",
+      "id": "hookform_resolvers"
     },
     {
       "label": "@radix-ui/react-accordion",
@@ -1397,8 +1419,8 @@
       "_origin": "ast",
       "community": 20,
       "norm_label": "@radix-ui/react-accordion",
-      "id": "package_dependencies_radix_ui_react_accordion",
-      "community_name": "Community 20"
+      "community_name": "Community 20",
+      "id": "package_dependencies_radix_ui_react_accordion"
     },
     {
       "label": "@radix-ui/react-accordion",
@@ -1408,8 +1430,8 @@
       "_origin": "ast",
       "community": 20,
       "norm_label": "@radix-ui/react-accordion",
-      "id": "radix_ui_react_accordion",
-      "community_name": "Community 20"
+      "community_name": "Community 20",
+      "id": "radix_ui_react_accordion"
     },
     {
       "label": "@radix-ui/react-alert-dialog",
@@ -1419,8 +1441,8 @@
       "_origin": "ast",
       "community": 21,
       "norm_label": "@radix-ui/react-alert-dialog",
-      "id": "package_dependencies_radix_ui_react_alert_dialog",
-      "community_name": "Community 21"
+      "community_name": "Community 21",
+      "id": "package_dependencies_radix_ui_react_alert_dialog"
     },
     {
       "label": "@radix-ui/react-alert-dialog",
@@ -1430,8 +1452,8 @@
       "_origin": "ast",
       "community": 21,
       "norm_label": "@radix-ui/react-alert-dialog",
-      "id": "radix_ui_react_alert_dialog",
-      "community_name": "Community 21"
+      "community_name": "Community 21",
+      "id": "radix_ui_react_alert_dialog"
     },
     {
       "label": "@radix-ui/react-aspect-ratio",
@@ -1441,8 +1463,8 @@
       "_origin": "ast",
       "community": 22,
       "norm_label": "@radix-ui/react-aspect-ratio",
-      "id": "package_dependencies_radix_ui_react_aspect_ratio",
-      "community_name": "Community 22"
+      "community_name": "Community 22",
+      "id": "package_dependencies_radix_ui_react_aspect_ratio"
     },
     {
       "label": "@radix-ui/react-aspect-ratio",
@@ -1452,8 +1474,8 @@
       "_origin": "ast",
       "community": 22,
       "norm_label": "@radix-ui/react-aspect-ratio",
-      "id": "radix_ui_react_aspect_ratio",
-      "community_name": "Community 22"
+      "community_name": "Community 22",
+      "id": "radix_ui_react_aspect_ratio"
     },
     {
       "label": "@radix-ui/react-avatar",
@@ -1463,8 +1485,8 @@
       "_origin": "ast",
       "community": 23,
       "norm_label": "@radix-ui/react-avatar",
-      "id": "package_dependencies_radix_ui_react_avatar",
-      "community_name": "Community 23"
+      "community_name": "Community 23",
+      "id": "package_dependencies_radix_ui_react_avatar"
     },
     {
       "label": "@radix-ui/react-avatar",
@@ -1474,8 +1496,8 @@
       "_origin": "ast",
       "community": 23,
       "norm_label": "@radix-ui/react-avatar",
-      "id": "radix_ui_react_avatar",
-      "community_name": "Community 23"
+      "community_name": "Community 23",
+      "id": "radix_ui_react_avatar"
     },
     {
       "label": "@radix-ui/react-checkbox",
@@ -1485,8 +1507,8 @@
       "_origin": "ast",
       "community": 24,
       "norm_label": "@radix-ui/react-checkbox",
-      "id": "package_dependencies_radix_ui_react_checkbox",
-      "community_name": "Community 24"
+      "community_name": "Community 24",
+      "id": "package_dependencies_radix_ui_react_checkbox"
     },
     {
       "label": "@radix-ui/react-checkbox",
@@ -1496,8 +1518,8 @@
       "_origin": "ast",
       "community": 24,
       "norm_label": "@radix-ui/react-checkbox",
-      "id": "radix_ui_react_checkbox",
-      "community_name": "Community 24"
+      "community_name": "Community 24",
+      "id": "radix_ui_react_checkbox"
     },
     {
       "label": "@radix-ui/react-collapsible",
@@ -1507,8 +1529,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-collapsible",
-      "id": "package_dependencies_radix_ui_react_collapsible",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "package_dependencies_radix_ui_react_collapsible"
     },
     {
       "label": "@radix-ui/react-collapsible",
@@ -1518,8 +1540,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-collapsible",
-      "id": "radix_ui_react_collapsible",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "radix_ui_react_collapsible"
     },
     {
       "label": "@radix-ui/react-context-menu",
@@ -1529,8 +1551,8 @@
       "_origin": "ast",
       "community": 25,
       "norm_label": "@radix-ui/react-context-menu",
-      "id": "package_dependencies_radix_ui_react_context_menu",
-      "community_name": "Community 25"
+      "community_name": "Community 25",
+      "id": "package_dependencies_radix_ui_react_context_menu"
     },
     {
       "label": "@radix-ui/react-context-menu",
@@ -1540,8 +1562,8 @@
       "_origin": "ast",
       "community": 25,
       "norm_label": "@radix-ui/react-context-menu",
-      "id": "radix_ui_react_context_menu",
-      "community_name": "Community 25"
+      "community_name": "Community 25",
+      "id": "radix_ui_react_context_menu"
     },
     {
       "label": "@radix-ui/react-dialog",
@@ -1551,8 +1573,8 @@
       "_origin": "ast",
       "community": 26,
       "norm_label": "@radix-ui/react-dialog",
-      "id": "package_dependencies_radix_ui_react_dialog",
-      "community_name": "Community 26"
+      "community_name": "Community 26",
+      "id": "package_dependencies_radix_ui_react_dialog"
     },
     {
       "label": "@radix-ui/react-dialog",
@@ -1562,8 +1584,8 @@
       "_origin": "ast",
       "community": 26,
       "norm_label": "@radix-ui/react-dialog",
-      "id": "radix_ui_react_dialog",
-      "community_name": "Community 26"
+      "community_name": "Community 26",
+      "id": "radix_ui_react_dialog"
     },
     {
       "label": "@radix-ui/react-dropdown-menu",
@@ -1573,8 +1595,8 @@
       "_origin": "ast",
       "community": 27,
       "norm_label": "@radix-ui/react-dropdown-menu",
-      "id": "package_dependencies_radix_ui_react_dropdown_menu",
-      "community_name": "Community 27"
+      "community_name": "Community 27",
+      "id": "package_dependencies_radix_ui_react_dropdown_menu"
     },
     {
       "label": "@radix-ui/react-dropdown-menu",
@@ -1584,8 +1606,8 @@
       "_origin": "ast",
       "community": 27,
       "norm_label": "@radix-ui/react-dropdown-menu",
-      "id": "radix_ui_react_dropdown_menu",
-      "community_name": "Community 27"
+      "community_name": "Community 27",
+      "id": "radix_ui_react_dropdown_menu"
     },
     {
       "label": "@radix-ui/react-hover-card",
@@ -1595,8 +1617,8 @@
       "_origin": "ast",
       "community": 28,
       "norm_label": "@radix-ui/react-hover-card",
-      "id": "package_dependencies_radix_ui_react_hover_card",
-      "community_name": "Community 28"
+      "community_name": "Community 28",
+      "id": "package_dependencies_radix_ui_react_hover_card"
     },
     {
       "label": "@radix-ui/react-hover-card",
@@ -1606,8 +1628,8 @@
       "_origin": "ast",
       "community": 28,
       "norm_label": "@radix-ui/react-hover-card",
-      "id": "radix_ui_react_hover_card",
-      "community_name": "Community 28"
+      "community_name": "Community 28",
+      "id": "radix_ui_react_hover_card"
     },
     {
       "label": "@radix-ui/react-label",
@@ -1617,8 +1639,8 @@
       "_origin": "ast",
       "community": 29,
       "norm_label": "@radix-ui/react-label",
-      "id": "package_dependencies_radix_ui_react_label",
-      "community_name": "Community 29"
+      "community_name": "Community 29",
+      "id": "package_dependencies_radix_ui_react_label"
     },
     {
       "label": "@radix-ui/react-label",
@@ -1628,8 +1650,8 @@
       "_origin": "ast",
       "community": 29,
       "norm_label": "@radix-ui/react-label",
-      "id": "radix_ui_react_label",
-      "community_name": "Community 29"
+      "community_name": "Community 29",
+      "id": "radix_ui_react_label"
     },
     {
       "label": "@radix-ui/react-menubar",
@@ -1639,8 +1661,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-menubar",
-      "id": "package_dependencies_radix_ui_react_menubar",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "package_dependencies_radix_ui_react_menubar"
     },
     {
       "label": "@radix-ui/react-menubar",
@@ -1650,8 +1672,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-menubar",
-      "id": "radix_ui_react_menubar",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "radix_ui_react_menubar"
     },
     {
       "label": "@radix-ui/react-navigation-menu",
@@ -1661,8 +1683,8 @@
       "_origin": "ast",
       "community": 30,
       "norm_label": "@radix-ui/react-navigation-menu",
-      "id": "package_dependencies_radix_ui_react_navigation_menu",
-      "community_name": "Community 30"
+      "community_name": "Community 30",
+      "id": "package_dependencies_radix_ui_react_navigation_menu"
     },
     {
       "label": "@radix-ui/react-navigation-menu",
@@ -1672,8 +1694,8 @@
       "_origin": "ast",
       "community": 30,
       "norm_label": "@radix-ui/react-navigation-menu",
-      "id": "radix_ui_react_navigation_menu",
-      "community_name": "Community 30"
+      "community_name": "Community 30",
+      "id": "radix_ui_react_navigation_menu"
     },
     {
       "label": "@radix-ui/react-popover",
@@ -1683,8 +1705,8 @@
       "_origin": "ast",
       "community": 31,
       "norm_label": "@radix-ui/react-popover",
-      "id": "package_dependencies_radix_ui_react_popover",
-      "community_name": "Community 31"
+      "community_name": "Community 31",
+      "id": "package_dependencies_radix_ui_react_popover"
     },
     {
       "label": "@radix-ui/react-popover",
@@ -1694,8 +1716,8 @@
       "_origin": "ast",
       "community": 31,
       "norm_label": "@radix-ui/react-popover",
-      "id": "radix_ui_react_popover",
-      "community_name": "Community 31"
+      "community_name": "Community 31",
+      "id": "radix_ui_react_popover"
     },
     {
       "label": "@radix-ui/react-progress",
@@ -1705,8 +1727,8 @@
       "_origin": "ast",
       "community": 32,
       "norm_label": "@radix-ui/react-progress",
-      "id": "package_dependencies_radix_ui_react_progress",
-      "community_name": "Community 32"
+      "community_name": "Community 32",
+      "id": "package_dependencies_radix_ui_react_progress"
     },
     {
       "label": "@radix-ui/react-progress",
@@ -1716,8 +1738,8 @@
       "_origin": "ast",
       "community": 32,
       "norm_label": "@radix-ui/react-progress",
-      "id": "radix_ui_react_progress",
-      "community_name": "Community 32"
+      "community_name": "Community 32",
+      "id": "radix_ui_react_progress"
     },
     {
       "label": "@radix-ui/react-radio-group",
@@ -1727,8 +1749,8 @@
       "_origin": "ast",
       "community": 33,
       "norm_label": "@radix-ui/react-radio-group",
-      "id": "package_dependencies_radix_ui_react_radio_group",
-      "community_name": "Community 33"
+      "community_name": "Community 33",
+      "id": "package_dependencies_radix_ui_react_radio_group"
     },
     {
       "label": "@radix-ui/react-radio-group",
@@ -1738,8 +1760,8 @@
       "_origin": "ast",
       "community": 33,
       "norm_label": "@radix-ui/react-radio-group",
-      "id": "radix_ui_react_radio_group",
-      "community_name": "Community 33"
+      "community_name": "Community 33",
+      "id": "radix_ui_react_radio_group"
     },
     {
       "label": "@radix-ui/react-scroll-area",
@@ -1749,8 +1771,8 @@
       "_origin": "ast",
       "community": 34,
       "norm_label": "@radix-ui/react-scroll-area",
-      "id": "package_dependencies_radix_ui_react_scroll_area",
-      "community_name": "Community 34"
+      "community_name": "Community 34",
+      "id": "package_dependencies_radix_ui_react_scroll_area"
     },
     {
       "label": "@radix-ui/react-scroll-area",
@@ -1760,8 +1782,8 @@
       "_origin": "ast",
       "community": 34,
       "norm_label": "@radix-ui/react-scroll-area",
-      "id": "radix_ui_react_scroll_area",
-      "community_name": "Community 34"
+      "community_name": "Community 34",
+      "id": "radix_ui_react_scroll_area"
     },
     {
       "label": "@radix-ui/react-select",
@@ -1771,8 +1793,8 @@
       "_origin": "ast",
       "community": 35,
       "norm_label": "@radix-ui/react-select",
-      "id": "package_dependencies_radix_ui_react_select",
-      "community_name": "Community 35"
+      "community_name": "Community 35",
+      "id": "package_dependencies_radix_ui_react_select"
     },
     {
       "label": "@radix-ui/react-select",
@@ -1782,8 +1804,8 @@
       "_origin": "ast",
       "community": 35,
       "norm_label": "@radix-ui/react-select",
-      "id": "radix_ui_react_select",
-      "community_name": "Community 35"
+      "community_name": "Community 35",
+      "id": "radix_ui_react_select"
     },
     {
       "label": "@radix-ui/react-separator",
@@ -1793,8 +1815,8 @@
       "_origin": "ast",
       "community": 36,
       "norm_label": "@radix-ui/react-separator",
-      "id": "package_dependencies_radix_ui_react_separator",
-      "community_name": "Community 36"
+      "community_name": "Community 36",
+      "id": "package_dependencies_radix_ui_react_separator"
     },
     {
       "label": "@radix-ui/react-separator",
@@ -1804,8 +1826,8 @@
       "_origin": "ast",
       "community": 36,
       "norm_label": "@radix-ui/react-separator",
-      "id": "radix_ui_react_separator",
-      "community_name": "Community 36"
+      "community_name": "Community 36",
+      "id": "radix_ui_react_separator"
     },
     {
       "label": "@radix-ui/react-slider",
@@ -1815,8 +1837,8 @@
       "_origin": "ast",
       "community": 37,
       "norm_label": "@radix-ui/react-slider",
-      "id": "package_dependencies_radix_ui_react_slider",
-      "community_name": "Community 37"
+      "community_name": "Community 37",
+      "id": "package_dependencies_radix_ui_react_slider"
     },
     {
       "label": "@radix-ui/react-slider",
@@ -1826,8 +1848,8 @@
       "_origin": "ast",
       "community": 37,
       "norm_label": "@radix-ui/react-slider",
-      "id": "radix_ui_react_slider",
-      "community_name": "Community 37"
+      "community_name": "Community 37",
+      "id": "radix_ui_react_slider"
     },
     {
       "label": "@radix-ui/react-slot",
@@ -1837,8 +1859,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-slot",
-      "id": "package_dependencies_radix_ui_react_slot",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "package_dependencies_radix_ui_react_slot"
     },
     {
       "label": "@radix-ui/react-slot",
@@ -1848,8 +1870,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-slot",
-      "id": "radix_ui_react_slot",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "radix_ui_react_slot"
     },
     {
       "label": "@radix-ui/react-switch",
@@ -1859,8 +1881,8 @@
       "_origin": "ast",
       "community": 38,
       "norm_label": "@radix-ui/react-switch",
-      "id": "package_dependencies_radix_ui_react_switch",
-      "community_name": "Community 38"
+      "community_name": "Community 38",
+      "id": "package_dependencies_radix_ui_react_switch"
     },
     {
       "label": "@radix-ui/react-switch",
@@ -1870,8 +1892,8 @@
       "_origin": "ast",
       "community": 38,
       "norm_label": "@radix-ui/react-switch",
-      "id": "radix_ui_react_switch",
-      "community_name": "Community 38"
+      "community_name": "Community 38",
+      "id": "radix_ui_react_switch"
     },
     {
       "label": "@radix-ui/react-tabs",
@@ -1881,8 +1903,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-tabs",
-      "id": "package_dependencies_radix_ui_react_tabs",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "package_dependencies_radix_ui_react_tabs"
     },
     {
       "label": "@radix-ui/react-tabs",
@@ -1892,8 +1914,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-tabs",
-      "id": "radix_ui_react_tabs",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "radix_ui_react_tabs"
     },
     {
       "label": "@radix-ui/react-toast",
@@ -1903,8 +1925,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "@radix-ui/react-toast",
-      "id": "package_dependencies_radix_ui_react_toast",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "package_dependencies_radix_ui_react_toast"
     },
     {
       "label": "@radix-ui/react-toggle",
@@ -1914,8 +1936,8 @@
       "_origin": "ast",
       "community": 39,
       "norm_label": "@radix-ui/react-toggle",
-      "id": "package_dependencies_radix_ui_react_toggle",
-      "community_name": "Community 39"
+      "community_name": "Community 39",
+      "id": "package_dependencies_radix_ui_react_toggle"
     },
     {
       "label": "@radix-ui/react-toggle",
@@ -1925,8 +1947,8 @@
       "_origin": "ast",
       "community": 39,
       "norm_label": "@radix-ui/react-toggle",
-      "id": "radix_ui_react_toggle",
-      "community_name": "Community 39"
+      "community_name": "Community 39",
+      "id": "radix_ui_react_toggle"
     },
     {
       "label": "@radix-ui/react-toggle-group",
@@ -1936,8 +1958,8 @@
       "_origin": "ast",
       "community": 40,
       "norm_label": "@radix-ui/react-toggle-group",
-      "id": "package_dependencies_radix_ui_react_toggle_group",
-      "community_name": "Community 40"
+      "community_name": "Community 40",
+      "id": "package_dependencies_radix_ui_react_toggle_group"
     },
     {
       "label": "@radix-ui/react-toggle-group",
@@ -1947,8 +1969,8 @@
       "_origin": "ast",
       "community": 40,
       "norm_label": "@radix-ui/react-toggle-group",
-      "id": "radix_ui_react_toggle_group",
-      "community_name": "Community 40"
+      "community_name": "Community 40",
+      "id": "radix_ui_react_toggle_group"
     },
     {
       "label": "@radix-ui/react-tooltip",
@@ -1958,8 +1980,8 @@
       "_origin": "ast",
       "community": 41,
       "norm_label": "@radix-ui/react-tooltip",
-      "id": "package_dependencies_radix_ui_react_tooltip",
-      "community_name": "Community 41"
+      "community_name": "Community 41",
+      "id": "package_dependencies_radix_ui_react_tooltip"
     },
     {
       "label": "@radix-ui/react-tooltip",
@@ -1969,8 +1991,8 @@
       "_origin": "ast",
       "community": 41,
       "norm_label": "@radix-ui/react-tooltip",
-      "id": "radix_ui_react_tooltip",
-      "community_name": "Community 41"
+      "community_name": "Community 41",
+      "id": "radix_ui_react_tooltip"
     },
     {
       "label": "@vercel/analytics",
@@ -1980,8 +2002,8 @@
       "_origin": "ast",
       "community": 52,
       "norm_label": "@vercel/analytics",
-      "id": "package_dependencies_vercel_analytics",
-      "community_name": "Community 52"
+      "community_name": "Community 52",
+      "id": "package_dependencies_vercel_analytics"
     },
     {
       "label": "@vercel/analytics",
@@ -1991,8 +2013,8 @@
       "_origin": "ast",
       "community": 52,
       "norm_label": "@vercel/analytics",
-      "id": "vercel_analytics",
-      "community_name": "Community 52"
+      "community_name": "Community 52",
+      "id": "vercel_analytics"
     },
     {
       "label": "autoprefixer",
@@ -2002,8 +2024,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "autoprefixer",
-      "id": "package_dependencies_autoprefixer",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "package_dependencies_autoprefixer"
     },
     {
       "label": "autoprefixer",
@@ -2013,8 +2035,8 @@
       "_origin": "ast",
       "community": 8,
       "norm_label": "autoprefixer",
-      "id": "autoprefixer",
-      "community_name": "Community 8"
+      "community_name": "Community 8",
+      "id": "autoprefixer"
     },
     {
       "label": "class-variance-authority",
@@ -2024,8 +2046,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "class-variance-authority",
-      "id": "package_dependencies_class_variance_authority",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "package_dependencies_class_variance_authority"
     },
     {
       "label": "class-variance-authority",
@@ -2035,8 +2057,8 @@
       "_origin": "ast",
       "community": 9,
       "norm_label": "class-variance-authority",
-      "id": "class_variance_authority",
-      "community_name": "Community 9"
+      "community_name": "Community 9",
+      "id": "class_variance_authority"
     },
     {
       "label": "clsx",
@@ -2046,8 +2068,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "clsx",
-      "id": "package_dependencies_clsx",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "package_dependencies_clsx"
     },
     {
       "label": "clsx",
@@ -2057,8 +2079,8 @@
       "_origin": "ast",
       "community": 10,
       "norm_label": "clsx",
-      "id": "clsx",
-      "community_name": "Community 10"
+      "community_name": "Community 10",
+      "id": "clsx"
     },
     {
       "label": "cmdk",
@@ -2068,8 +2090,8 @@
       "_origin": "ast",
       "community": 11,
       "norm_label": "cmdk",
-      "id": "package_dependencies_cmdk",
-      "community_name": "Community 11"
+      "community_name": "Community 11",
+      "id": "package_dependencies_cmdk"
     },
     {
       "label": "cmdk",
@@ -2079,8 +2101,8 @@
       "_origin": "ast",
       "community": 11,
       "norm_label": "cmdk",
-      "id": "cmdk",
-      "community_name": "Community 11"
+      "community_name": "Community 11",
+      "id": "cmdk"
     },
     {
       "label": "date-fns",
@@ -2090,8 +2112,8 @@
       "_origin": "ast",
       "community": 13,
       "norm_label": "date-fns",
-      "id": "package_dependencies_date_fns",
-      "community_name": "Community 13"
+      "community_name": "Community 13",
+      "id": "package_dependencies_date_fns"
     },
     {
       "label": "date-fns",
@@ -2101,8 +2123,8 @@
       "_origin": "ast",
       "community": 13,
       "norm_label": "date-fns",
-      "id": "date_fns",
-      "community_name": "Community 13"
+      "community_name": "Community 13",
+      "id": "date_fns"
     },
     {
       "label": "embla-carousel-react",
@@ -2112,8 +2134,8 @@
       "_origin": "ast",
       "community": 14,
       "norm_label": "embla-carousel-react",
-      "id": "package_dependencies_embla_carousel_react",
-      "community_name": "Community 14"
+      "community_name": "Community 14",
+      "id": "package_dependencies_embla_carousel_react"
     },
     {
       "label": "embla-carousel-react",
@@ -2123,8 +2145,8 @@
       "_origin": "ast",
       "community": 14,
       "norm_label": "embla-carousel-react",
-      "id": "embla_carousel_react",
-      "community_name": "Community 14"
+      "community_name": "Community 14",
+      "id": "embla_carousel_react"
     },
     {
       "label": "input-otp",
@@ -2134,8 +2156,8 @@
       "_origin": "ast",
       "community": 16,
       "norm_label": "input-otp",
-      "id": "package_dependencies_input_otp",
-      "community_name": "Community 16"
+      "community_name": "Community 16",
+      "id": "package_dependencies_input_otp"
     },
     {
       "label": "input-otp",
@@ -2145,8 +2167,8 @@
       "_origin": "ast",
       "community": 16,
       "norm_label": "input-otp",
-      "id": "input_otp",
-      "community_name": "Community 16"
+      "community_name": "Community 16",
+      "id": "input_otp"
     },
     {
       "label": "lucide-react",
@@ -2156,8 +2178,8 @@
       "_origin": "ast",
       "community": 17,
       "norm_label": "lucide-react",
-      "id": "package_dependencies_lucide_react",
-      "community_name": "Community 17"
+      "community_name": "Community 17",
+      "id": "package_dependencies_lucide_react"
     },
     {
       "label": "lucide-react",
@@ -2167,8 +2189,8 @@
       "_origin": "ast",
       "community": 17,
       "norm_label": "lucide-react",
-      "id": "lucide_react",
-      "community_name": "Community 17"
+      "community_name": "Community 17",
+      "id": "lucide_react"
     },
     {
       "label": "next",
@@ -2178,8 +2200,8 @@
       "_origin": "ast",
       "community": 18,
       "norm_label": "next",
-      "id": "package_dependencies_next",
-      "community_name": "Community 18"
+      "community_name": "Community 18",
+      "id": "package_dependencies_next"
     },
     {
       "label": "next",
@@ -2189,8 +2211,8 @@
       "_origin": "ast",
       "community": 18,
       "norm_label": "next",
-      "id": "next",
-      "community_name": "Community 18"
+      "community_name": "Community 18",
+      "id": "next"
     },
     {
       "label": "next-themes",
@@ -2200,8 +2222,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "next-themes",
-      "id": "package_dependencies_next_themes",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "package_dependencies_next_themes"
     },
     {
       "label": "next-themes",
@@ -2211,8 +2233,8 @@
       "_origin": "ast",
       "community": 5,
       "norm_label": "next-themes",
-      "id": "next_themes",
-      "community_name": "Community 5"
+      "community_name": "Community 5",
+      "id": "next_themes"
     },
     {
       "label": "react",
@@ -2222,8 +2244,8 @@
       "_origin": "ast",
       "community": 42,
       "norm_label": "react",
-      "id": "package_dependencies_react",
-      "community_name": "Community 42"
+      "community_name": "Community 42",
+      "id": "package_dependencies_react"
     },
     {
       "label": "react",
@@ -2233,8 +2255,8 @@
       "_origin": "ast",
       "community": 42,
       "norm_label": "react",
-      "id": "react",
-      "community_name": "Community 42"
+      "community_name": "Community 42",
+      "id": "react"
     },
     {
       "label": "react-day-picker",
@@ -2244,8 +2266,8 @@
       "_origin": "ast",
       "community": 43,
       "norm_label": "react-day-picker",
-      "id": "package_dependencies_react_day_picker",
-      "community_name": "Community 43"
+      "community_name": "Community 43",
+      "id": "package_dependencies_react_day_picker"
     },
     {
       "label": "react-day-picker",
@@ -2255,8 +2277,8 @@
       "_origin": "ast",
       "community": 43,
       "norm_label": "react-day-picker",
-      "id": "react_day_picker",
-      "community_name": "Community 43"
+      "community_name": "Community 43",
+      "id": "react_day_picker"
     },
     {
       "label": "react-dom",
@@ -2266,8 +2288,8 @@
       "_origin": "ast",
       "community": 44,
       "norm_label": "react-dom",
-      "id": "package_dependencies_react_dom",
-      "community_name": "Community 44"
+      "community_name": "Community 44",
+      "id": "package_dependencies_react_dom"
     },
     {
       "label": "react-dom",
@@ -2277,8 +2299,8 @@
       "_origin": "ast",
       "community": 44,
       "norm_label": "react-dom",
-      "id": "react_dom",
-      "community_name": "Community 44"
+      "community_name": "Community 44",
+      "id": "react_dom"
     },
     {
       "label": "react-hook-form",
@@ -2288,8 +2310,8 @@
       "_origin": "ast",
       "community": 45,
       "norm_label": "react-hook-form",
-      "id": "package_dependencies_react_hook_form",
-      "community_name": "Community 45"
+      "community_name": "Community 45",
+      "id": "package_dependencies_react_hook_form"
     },
     {
       "label": "react-hook-form",
@@ -2299,8 +2321,8 @@
       "_origin": "ast",
       "community": 45,
       "norm_label": "react-hook-form",
-      "id": "react_hook_form",
-      "community_name": "Community 45"
+      "community_name": "Community 45",
+      "id": "react_hook_form"
     },
     {
       "label": "react-resizable-panels",
@@ -2310,8 +2332,8 @@
       "_origin": "ast",
       "community": 46,
       "norm_label": "react-resizable-panels",
-      "id": "package_dependencies_react_resizable_panels",
-      "community_name": "Community 46"
+      "community_name": "Community 46",
+      "id": "package_dependencies_react_resizable_panels"
     },
     {
       "label": "react-resizable-panels",
@@ -2321,8 +2343,8 @@
       "_origin": "ast",
       "community": 46,
       "norm_label": "react-resizable-panels",
-      "id": "react_resizable_panels",
-      "community_name": "Community 46"
+      "community_name": "Community 46",
+      "id": "react_resizable_panels"
     },
     {
       "label": "recharts",
@@ -2332,8 +2354,8 @@
       "_origin": "ast",
       "community": 47,
       "norm_label": "recharts",
-      "id": "package_dependencies_recharts",
-      "community_name": "Community 47"
+      "community_name": "Community 47",
+      "id": "package_dependencies_recharts"
     },
     {
       "label": "recharts",
@@ -2343,8 +2365,8 @@
       "_origin": "ast",
       "community": 47,
       "norm_label": "recharts",
-      "id": "recharts",
-      "community_name": "Community 47"
+      "community_name": "Community 47",
+      "id": "recharts"
     },
     {
       "label": "sonner",
@@ -2354,8 +2376,8 @@
       "_origin": "ast",
       "community": 48,
       "norm_label": "sonner",
-      "id": "package_dependencies_sonner",
-      "community_name": "Community 48"
+      "community_name": "Community 48",
+      "id": "package_dependencies_sonner"
     },
     {
       "label": "sonner",
@@ -2365,8 +2387,8 @@
       "_origin": "ast",
       "community": 48,
       "norm_label": "sonner",
-      "id": "sonner",
-      "community_name": "Community 48"
+      "community_name": "Community 48",
+      "id": "sonner"
     },
     {
       "label": "tailwind-merge",
@@ -2376,8 +2398,8 @@
       "_origin": "ast",
       "community": 49,
       "norm_label": "tailwind-merge",
-      "id": "package_dependencies_tailwind_merge",
-      "community_name": "Community 49"
+      "community_name": "Community 49",
+      "id": "package_dependencies_tailwind_merge"
     },
     {
       "label": "tailwind-merge",
@@ -2387,8 +2409,8 @@
       "_origin": "ast",
       "community": 49,
       "norm_label": "tailwind-merge",
-      "id": "tailwind_merge",
-      "community_name": "Community 49"
+      "community_name": "Community 49",
+      "id": "tailwind_merge"
     },
     {
       "label": "tailwindcss-animate",
@@ -2398,8 +2420,8 @@
       "_origin": "ast",
       "community": 50,
       "norm_label": "tailwindcss-animate",
-      "id": "package_dependencies_tailwindcss_animate",
-      "community_name": "Community 50"
+      "community_name": "Community 50",
+      "id": "package_dependencies_tailwindcss_animate"
     },
     {
       "label": "tailwindcss-animate",
@@ -2409,8 +2431,8 @@
       "_origin": "ast",
       "community": 50,
       "norm_label": "tailwindcss-animate",
-      "id": "tailwindcss_animate",
-      "community_name": "Community 50"
+      "community_name": "Community 50",
+      "id": "tailwindcss_animate"
     },
     {
       "label": "vaul",
@@ -2420,8 +2442,8 @@
       "_origin": "ast",
       "community": 51,
       "norm_label": "vaul",
-      "id": "package_dependencies_vaul",
-      "community_name": "Community 51"
+      "community_name": "Community 51",
+      "id": "package_dependencies_vaul"
     },
     {
       "label": "vaul",
@@ -2431,8 +2453,8 @@
       "_origin": "ast",
       "community": 51,
       "norm_label": "vaul",
-      "id": "vaul",
-      "community_name": "Community 51"
+      "community_name": "Community 51",
+      "id": "vaul"
     },
     {
       "label": "zod",
@@ -2442,8 +2464,8 @@
       "_origin": "ast",
       "community": 53,
       "norm_label": "zod",
-      "id": "package_dependencies_zod",
-      "community_name": "Community 53"
+      "community_name": "Community 53",
+      "id": "package_dependencies_zod"
     },
     {
       "label": "zod",
@@ -2453,8 +2475,8 @@
       "_origin": "ast",
       "community": 53,
       "norm_label": "zod",
-      "id": "zod",
-      "community_name": "Community 53"
+      "community_name": "Community 53",
+      "id": "zod"
     },
     {
       "label": "devDependencies",
@@ -2464,8 +2486,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "devdependencies",
-      "id": "package_devdependencies",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies"
     },
     {
       "label": "@tailwindcss/postcss",
@@ -2475,8 +2497,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@tailwindcss/postcss",
-      "id": "package_devdependencies_tailwindcss_postcss",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_tailwindcss_postcss"
     },
     {
       "label": "@tailwindcss/postcss",
@@ -2486,8 +2508,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@tailwindcss/postcss",
-      "id": "tailwindcss_postcss",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "tailwindcss_postcss"
     },
     {
       "label": "@types/node",
@@ -2497,8 +2519,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/node",
-      "id": "package_devdependencies_types_node",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_node"
     },
     {
       "label": "@types/node",
@@ -2508,8 +2530,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/node",
-      "id": "types_node",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_node"
     },
     {
       "label": "@types/react",
@@ -2519,8 +2541,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react",
-      "id": "package_devdependencies_types_react",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_react"
     },
     {
       "label": "@types/react",
@@ -2530,8 +2552,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react",
-      "id": "types_react",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_react"
     },
     {
       "label": "@types/react-dom",
@@ -2541,8 +2563,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react-dom",
-      "id": "package_devdependencies_types_react_dom",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_types_react_dom"
     },
     {
       "label": "@types/react-dom",
@@ -2552,8 +2574,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "@types/react-dom",
-      "id": "types_react_dom",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "types_react_dom"
     },
     {
       "label": "postcss",
@@ -2563,8 +2585,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "postcss",
-      "id": "package_devdependencies_postcss",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_postcss"
     },
     {
       "label": "postcss",
@@ -2574,8 +2596,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "postcss",
-      "id": "postcss",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "postcss"
     },
     {
       "label": "tailwindcss",
@@ -2585,8 +2607,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "tailwindcss",
-      "id": "package_devdependencies_tailwindcss",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_tailwindcss"
     },
     {
       "label": "tailwindcss",
@@ -2596,8 +2618,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "tailwindcss",
-      "id": "tailwindcss",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "tailwindcss"
     },
     {
       "label": "tw-animate-css",
@@ -2607,8 +2629,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "tw-animate-css",
-      "id": "package_devdependencies_tw_animate_css",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_tw_animate_css"
     },
     {
       "label": "tw-animate-css",
@@ -2618,8 +2640,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "tw-animate-css",
-      "id": "tw_animate_css",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "tw_animate_css"
     },
     {
       "label": "typescript",
@@ -2629,8 +2651,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "typescript",
-      "id": "package_devdependencies_typescript",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "package_devdependencies_typescript"
     },
     {
       "label": "typescript",
@@ -2640,8 +2662,8 @@
       "_origin": "ast",
       "community": 3,
       "norm_label": "typescript",
-      "id": "typescript",
-      "community_name": "Community 3"
+      "community_name": "Community 3",
+      "id": "typescript"
     },
     {
       "label": "postcss.config.mjs",
@@ -2651,8 +2673,8 @@
       "_origin": "ast",
       "community": 54,
       "norm_label": "postcss.config.mjs",
-      "id": "postcss_config",
-      "community_name": "Community 54"
+      "community_name": "Community 54",
+      "id": "postcss_config"
     },
     {
       "label": "config",
@@ -2662,8 +2684,8 @@
       "_origin": "ast",
       "community": 54,
       "norm_label": "config",
-      "id": "postcss_config_config",
-      "community_name": "Community 54"
+      "community_name": "Community 54",
+      "id": "postcss_config_config"
     },
     {
       "label": "tsconfig.json",
@@ -2673,8 +2695,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "tsconfig.json",
-      "id": "tsconfig",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig"
     },
     {
       "label": "compilerOptions",
@@ -2684,8 +2706,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "compileroptions",
-      "id": "tsconfig_compileroptions",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions"
     },
     {
       "label": "lib",
@@ -2695,8 +2717,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "lib",
-      "id": "tsconfig_compileroptions_lib",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_lib"
     },
     {
       "label": "dom",
@@ -2706,8 +2728,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "dom",
-      "id": "ref_dom",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_dom"
     },
     {
       "label": "dom.iterable",
@@ -2717,8 +2739,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "dom.iterable",
-      "id": "ref_dom_iterable",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_dom_iterable"
     },
     {
       "label": "esnext",
@@ -2728,8 +2750,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "esnext",
-      "id": "ref_esnext",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_esnext"
     },
     {
       "label": "allowJs",
@@ -2739,8 +2761,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "allowjs",
-      "id": "tsconfig_compileroptions_allowjs",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_allowjs"
     },
     {
       "label": "target",
@@ -2750,8 +2772,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "target",
-      "id": "tsconfig_compileroptions_target",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_target"
     },
     {
       "label": "skipLibCheck",
@@ -2761,8 +2783,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "skiplibcheck",
-      "id": "tsconfig_compileroptions_skiplibcheck",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_skiplibcheck"
     },
     {
       "label": "strict",
@@ -2772,8 +2794,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "strict",
-      "id": "tsconfig_compileroptions_strict",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_strict"
     },
     {
       "label": "noEmit",
@@ -2783,8 +2805,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "noemit",
-      "id": "tsconfig_compileroptions_noemit",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_noemit"
     },
     {
       "label": "esModuleInterop",
@@ -2794,8 +2816,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "esmoduleinterop",
-      "id": "tsconfig_compileroptions_esmoduleinterop",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_esmoduleinterop"
     },
     {
       "label": "module",
@@ -2805,8 +2827,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "module",
-      "id": "tsconfig_compileroptions_module",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_module"
     },
     {
       "label": "moduleResolution",
@@ -2816,8 +2838,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "moduleresolution",
-      "id": "tsconfig_compileroptions_moduleresolution",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_moduleresolution"
     },
     {
       "label": "resolveJsonModule",
@@ -2827,8 +2849,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "resolvejsonmodule",
-      "id": "tsconfig_compileroptions_resolvejsonmodule",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_resolvejsonmodule"
     },
     {
       "label": "isolatedModules",
@@ -2838,8 +2860,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "isolatedmodules",
-      "id": "tsconfig_compileroptions_isolatedmodules",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_isolatedmodules"
     },
     {
       "label": "jsx",
@@ -2849,8 +2871,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "jsx",
-      "id": "tsconfig_compileroptions_jsx",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_jsx"
     },
     {
       "label": "incremental",
@@ -2860,8 +2882,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "incremental",
-      "id": "tsconfig_compileroptions_incremental",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_incremental"
     },
     {
       "label": "plugins",
@@ -2871,8 +2893,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "plugins",
-      "id": "tsconfig_compileroptions_plugins",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_plugins"
     },
     {
       "label": "paths",
@@ -2882,8 +2904,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "paths",
-      "id": "tsconfig_compileroptions_paths",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_compileroptions_paths"
     },
     {
       "label": "@/*",
@@ -2893,8 +2915,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "@/*",
-      "id": "tsconfig_paths",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_paths"
     },
     {
       "label": "./*",
@@ -2904,8 +2926,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "./*",
-      "id": "ref",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref"
     },
     {
       "label": "include",
@@ -2915,8 +2937,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "include",
-      "id": "tsconfig_include",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_include"
     },
     {
       "label": "next-env.d.ts",
@@ -2926,8 +2948,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "next-env.d.ts",
-      "id": "ref_next_env_d_ts",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_next_env_d_ts"
     },
     {
       "label": "**/*.ts",
@@ -2937,8 +2959,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "**/*.ts",
-      "id": "ref_ts",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_ts"
     },
     {
       "label": "**/*.tsx",
@@ -2948,8 +2970,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "**/*.tsx",
-      "id": "ref_tsx",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_tsx"
     },
     {
       "label": ".next/types/**/*.ts",
@@ -2959,8 +2981,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": ".next/types/**/*.ts",
-      "id": "ref_next_types_ts",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_next_types_ts"
     },
     {
       "label": ".next/dev/types/**/*.ts",
@@ -2970,8 +2992,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": ".next/dev/types/**/*.ts",
-      "id": "ref_next_dev_types_ts",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_next_dev_types_ts"
     },
     {
       "label": "exclude",
@@ -2981,8 +3003,8 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "exclude",
-      "id": "tsconfig_exclude",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "tsconfig_exclude"
     },
     {
       "label": "node_modules",
@@ -2992,11 +3014,21 @@
       "_origin": "ast",
       "community": 2,
       "norm_label": "node_modules",
-      "id": "ref_node_modules",
-      "community_name": "Community 2"
+      "community_name": "Community 2",
+      "id": "ref_node_modules"
     }
   ],
   "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "claude",
+      "target": "claude_graphify",
+      "confidence_score": 1.0
+    },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
@@ -6893,5 +6925,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "c67d1ac6380c372772340373f752765351f8f176"
+  "built_at_commit": "64a38a4140849ad15af7583276c855d1c58e554f"
 }

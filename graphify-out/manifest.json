@@ -153,5 +153,65 @@
     "mtime": 1767813231.4853916,
     "ast_hash": "bd50cc7b3cfae015818a012e2ee8fabc",
     "semantic_hash": "bd50cc7b3cfae015818a012e2ee8fabc"
+  },
+  "CLAUDE.md": {
+    "mtime": 1784065725.575157,
+    "ast_hash": "8a6643a420fdad6bfb583523bc6cef16",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1767813975.6267474,
+    "ast_hash": "f5b7f62b68678e554cf65f9cb78b58ac",
+    "semantic_hash": ""
+  },
+  "docs/DOCUMENTACION_TECNICA_COMPLETA_La_Estacion_del_play.md": {
+    "mtime": 1770851175.9626935,
+    "ast_hash": "fabf6234bcd8bfeb922802dc45b62e7d",
+    "semantic_hash": ""
+  },
+  "public/apple-icon.png": {
+    "mtime": 1767813007.3830135,
+    "ast_hash": "734ce6c878789fcd5843e8a7963e0756",
+    "semantic_hash": ""
+  },
+  "public/icon-dark-32x32.png": {
+    "mtime": 1767813007.3849702,
+    "ast_hash": "abd5ebe9e287ca0a89f4fd3da2b5cf9c",
+    "semantic_hash": ""
+  },
+  "public/icon-light-32x32.png": {
+    "mtime": 1767813007.385496,
+    "ast_hash": "53426c910bcab7d3e5213cc64aa1b2c5",
+    "semantic_hash": ""
+  },
+  "public/icon.svg": {
+    "mtime": 1767813007.3865266,
+    "ast_hash": "0285a820d3fb2d06a9fb098ef84c1174",
+    "semantic_hash": ""
+  },
+  "public/placeholder-logo.png": {
+    "mtime": 1767813007.3865266,
+    "ast_hash": "95d8d1a4a9bbcccc875e2c381e74064a",
+    "semantic_hash": ""
+  },
+  "public/placeholder-logo.svg": {
+    "mtime": 1767813007.3875375,
+    "ast_hash": "1e16dc7df824652c5906a2ab44aef78c",
+    "semantic_hash": ""
+  },
+  "public/placeholder-user.jpg": {
+    "mtime": 1767813007.3875375,
+    "ast_hash": "7ee6562646feae6d6d77e2c72e204591",
+    "semantic_hash": ""
+  },
+  "public/placeholder.jpg": {
+    "mtime": 1767813007.3885384,
+    "ast_hash": "1e533b7b4545d1d605144ce893afc601",
+    "semantic_hash": ""
+  },
+  "public/placeholder.svg": {
+    "mtime": 1767813007.3885384,
+    "ast_hash": "35707bd9960ba5281c72af927b79291f",
+    "semantic_hash": ""
   }
 }
