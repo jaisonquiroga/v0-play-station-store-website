@@ -1,0 +1,157 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1784065725.641148,
+    "ast_hash": "420a5763420a0535d8ed9b2574c3f043",
+    "semantic_hash": "420a5763420a0535d8ed9b2574c3f043"
+  },
+  "app/layout.tsx": {
+    "mtime": 1772221105.744585,
+    "ast_hash": "1a008700fdfb21c81b4165bda22ab0db",
+    "semantic_hash": "1a008700fdfb21c81b4165bda22ab0db"
+  },
+  "app/page.tsx": {
+    "mtime": 1767813007.3624258,
+    "ast_hash": "18fdaff68c3ceb290d1f44007a0a7a88",
+    "semantic_hash": "18fdaff68c3ceb290d1f44007a0a7a88"
+  },
+  "components.json": {
+    "mtime": 1767813007.3624258,
+    "ast_hash": "af129da04ff1d4eb3b9eb4db06de64b2",
+    "semantic_hash": "af129da04ff1d4eb3b9eb4db06de64b2"
+  },
+  "components/catalog-section.tsx": {
+    "mtime": 1767813007.3634229,
+    "ast_hash": "9565336891000cd2281c74e7ea84b6c1",
+    "semantic_hash": "9565336891000cd2281c74e7ea84b6c1"
+  },
+  "components/footer.tsx": {
+    "mtime": 1767813007.3644216,
+    "ast_hash": "c922998ed8f228d3b811de4a6ff20eeb",
+    "semantic_hash": "c922998ed8f228d3b811de4a6ff20eeb"
+  },
+  "components/gallery-section.tsx": {
+    "mtime": 1767813007.3644216,
+    "ast_hash": "633da8c5aa62e2a01bae43f1156ac6f2",
+    "semantic_hash": "633da8c5aa62e2a01bae43f1156ac6f2"
+  },
+  "components/game-section.tsx": {
+    "mtime": 1767813007.365421,
+    "ast_hash": "226a794cb8d14ec0e3f182ea39b90b49",
+    "semantic_hash": "226a794cb8d14ec0e3f182ea39b90b49"
+  },
+  "components/hero-section.tsx": {
+    "mtime": 1767813007.365421,
+    "ast_hash": "fefb16c2e390e4bcab7f146132a3c9ad",
+    "semantic_hash": "fefb16c2e390e4bcab7f146132a3c9ad"
+  },
+  "components/navbar.tsx": {
+    "mtime": 1767813007.3664215,
+    "ast_hash": "e2ca1faf42875b7ac410d4409582f889",
+    "semantic_hash": "e2ca1faf42875b7ac410d4409582f889"
+  },
+  "components/platform-game.tsx": {
+    "mtime": 1767813007.367424,
+    "ast_hash": "6d4c3ca9aef198ce95d2080e71b220fd",
+    "semantic_hash": "6d4c3ca9aef198ce95d2080e71b220fd"
+  },
+  "components/quote-form.tsx": {
+    "mtime": 1767813007.3680136,
+    "ast_hash": "7de4c67e3d069a261d7abdf9889d7c4d",
+    "semantic_hash": "7de4c67e3d069a261d7abdf9889d7c4d"
+  },
+  "components/services-section.tsx": {
+    "mtime": 1767813007.369012,
+    "ast_hash": "2aa7bbe6ecc6c7b199ba0077b5bc6962",
+    "semantic_hash": "2aa7bbe6ecc6c7b199ba0077b5bc6962"
+  },
+  "components/testimonials-section.tsx": {
+    "mtime": 1767813007.369012,
+    "ast_hash": "1e4f297a210d747f434c15016bbb0fe1",
+    "semantic_hash": "1e4f297a210d747f434c15016bbb0fe1"
+  },
+  "components/theme-provider.tsx": {
+    "mtime": 1767813007.369012,
+    "ast_hash": "14d10c7a17782fd47cb1057bc3d9baa5",
+    "semantic_hash": "14d10c7a17782fd47cb1057bc3d9baa5"
+  },
+  "components/ui/badge.tsx": {
+    "mtime": 1767813007.3710113,
+    "ast_hash": "ebe4c1537525cac6115da8cc7520c864",
+    "semantic_hash": "ebe4c1537525cac6115da8cc7520c864"
+  },
+  "components/ui/button.tsx": {
+    "mtime": 1767813007.372012,
+    "ast_hash": "cc308e419deedcab98521e38f9592101",
+    "semantic_hash": "cc308e419deedcab98521e38f9592101"
+  },
+  "components/ui/card.tsx": {
+    "mtime": 1767813007.373012,
+    "ast_hash": "a3f12d75b687553c356e1cad4c6fd63e",
+    "semantic_hash": "a3f12d75b687553c356e1cad4c6fd63e"
+  },
+  "components/ui/dialog.tsx": {
+    "mtime": 1767813007.373012,
+    "ast_hash": "274c33053865d4383c70445baddfe8f8",
+    "semantic_hash": "274c33053865d4383c70445baddfe8f8"
+  },
+  "components/ui/input.tsx": {
+    "mtime": 1767813007.3740115,
+    "ast_hash": "d7b0b07df86dfbe71af4332544dc251c",
+    "semantic_hash": "d7b0b07df86dfbe71af4332544dc251c"
+  },
+  "components/ui/label.tsx": {
+    "mtime": 1767813007.3750126,
+    "ast_hash": "7e7baf4cd009ec0e00aa6f8caa367904",
+    "semantic_hash": "7e7baf4cd009ec0e00aa6f8caa367904"
+  },
+  "components/ui/select.tsx": {
+    "mtime": 1767813007.3760097,
+    "ast_hash": "ffcb4591d8c2aaf37c57b16da2307aa7",
+    "semantic_hash": "ffcb4591d8c2aaf37c57b16da2307aa7"
+  },
+  "components/ui/textarea.tsx": {
+    "mtime": 1767813007.3760097,
+    "ast_hash": "540c5cd983f576f9722171ad320d65f9",
+    "semantic_hash": "540c5cd983f576f9722171ad320d65f9"
+  },
+  "components/whatsapp-button.tsx": {
+    "mtime": 1767813007.3770099,
+    "ast_hash": "d3f16989b2f2d07cc07ca28073ecb1ed",
+    "semantic_hash": "d3f16989b2f2d07cc07ca28073ecb1ed"
+  },
+  "lib/types.ts": {
+    "mtime": 1767813007.3780103,
+    "ast_hash": "b219c9a8d893b693961dc86b89f10bf7",
+    "semantic_hash": "b219c9a8d893b693961dc86b89f10bf7"
+  },
+  "lib/utils.ts": {
+    "mtime": 1767813007.379011,
+    "ast_hash": "d5fc3afa79f0c3df711898805e5da7b2",
+    "semantic_hash": "d5fc3afa79f0c3df711898805e5da7b2"
+  },
+  "next.config.mjs": {
+    "mtime": 1767813007.379011,
+    "ast_hash": "c745d5d778facbe7d6e345ce090c0f6e",
+    "semantic_hash": "c745d5d778facbe7d6e345ce090c0f6e"
+  },
+  "package.json": {
+    "mtime": 1767813007.380011,
+    "ast_hash": "de6128fa67de435ee7f3cdefcc224303",
+    "semantic_hash": "de6128fa67de435ee7f3cdefcc224303"
+  },
+  "postcss.config.mjs": {
+    "mtime": 1767813007.382012,
+    "ast_hash": "49a3ef9c7152e861100b88ac3b034855",
+    "semantic_hash": "49a3ef9c7152e861100b88ac3b034855"
+  },
+  "public/config.json": {
+    "mtime": 1767813989.6289277,
+    "ast_hash": "301b2aea0fdf89ed55deb2a14df11923",
+    "semantic_hash": "301b2aea0fdf89ed55deb2a14df11923"
+  },
+  "tsconfig.json": {
+    "mtime": 1767813231.4853916,
+    "ast_hash": "bd50cc7b3cfae015818a012e2ee8fabc",
+    "semantic_hash": "bd50cc7b3cfae015818a012e2ee8fabc"
+  }
+}
